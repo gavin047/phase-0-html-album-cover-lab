@@ -101,6 +101,7 @@ img {
   background: rgba(247,211,27,1);
   text-align: center;
   padding: 130px 35px 35px;
+  padding-inline:5px ;
 }
 
 #title-box {
